@@ -4,6 +4,6 @@
     { "id": "INC000002", "title": "Incident 2", "Description": "Customer is not able to login to Microsoft Teams on the webclient" },
     { "id": "INC000003", "title": "Incident 3", "Description": "Customer is getting static on calls from a Yealink MP58" },
     { "id": "INC000004", "title": "Incident 4", "Description": "Customer is not receiveing calls from a new Call Queues, only direct calls." },
-    { "id": "INC000005", "title": "Incident 5", "Description": "Calls being transfered to a specific user are being routed to a different user during transfers." },
+    { "id": "INC000005", "title": "Incident 5", "Description": "Calls being transfered to a specific user are being routed to a different user during transfers." }
   ]
 }
